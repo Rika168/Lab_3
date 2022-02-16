@@ -1,1 +1,1 @@
-# Lab_3
+5:32 Decoder can be used to decode 5-bit input and outputting back 32 corresponding output. The code can be compiled and simulated in Modelsim which takes 5 bit input and output 32 bit output. Decoder can also be tested using the testbench verilog code
